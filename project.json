@@ -1,0 +1,56 @@
+{
+  "name": "DANATest_M Alwi Hassan",
+  "projectId": "93d48eea-1376-40df-aecd-60c8bbd0f07f",
+  "description": "UiBank Test Feature DANA Test",
+  "main": "NewActivity.xaml",
+  "dependencies": {
+    "UiPath.Azure.Activities": "1.5.2",
+    "UiPath.Excel.Activities": "2.23.0-preview",
+    "UiPath.Mail.Activities": "1.21.1",
+    "UiPath.System.Activities": "23.12.0-preview",
+    "UiPath.Testing.Activities": "23.12.0-preview",
+    "UiPath.UIAutomation.Activities": "23.10.8",
+    "UiPath.WebAPI.Activities": "1.18.0"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.12.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Library",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
